@@ -5,7 +5,6 @@
 <a href="https://jaeyeol816.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-09B3AF?style=flat-square&logo=storyblok&logoColor=FFFFFF"/></a>
 
 #### 💁 I am..
-Name: Jaeyeol Choi <br>
 Senior student in [📚Sunkyunkwan university](https://www.skku.edu/eng/index.do), department of computer education 👨‍🎓<br>
 Working as undergraduate intern at [💻Multimedia Computing System Lab](http://mcsl.skku.edu) located in Seoul, Korea. <br>
 Worked at undergraduate intern at [🏢Electronics and Telecommunications Research Institute](https://www.etri.re.kr/eng/main/main.etri) located in Daejeon, Korea. <br>
