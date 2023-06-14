@@ -1,8 +1,2 @@
 
-### Jaeyeol Choi
-
-[![jaeyeol816's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeyeol816&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaeyeolchoi)](https://solved.ac/jaeyeolchoi/)
-
+<a href="." target="_blank"><img src="https://img.shields.io/badge/jaeyeol816@gmail.com-#EA4335?style=flat-square&logo=gmail&logoColor=ffffff"/></a>
