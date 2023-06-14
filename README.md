@@ -5,9 +5,9 @@
 <a href="https://jaeyeol816.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-09B3AF?style=flat-square&logo=storyblok&logoColor=FFFFFF"/></a>
 
 #### 💁 I am..
-Senior student in [📚Sunkyunkwan university](https://www.skku.edu/eng/index.do), department of computer education 👨‍🎓<br>
+Senior student in [📚Sungkyunkwan university](https://www.skku.edu/eng/index.do), department of computer education. 👨‍🎓<br>
 Working as undergraduate intern at [💻Multimedia Computing System Lab](http://mcsl.skku.edu) located in Seoul, Korea. <br>
-Worked at undergraduate intern at [🏢Electronics and Telecommunications Research Institute](https://www.etri.re.kr/eng/main/main.etri) located in Daejeon, Korea. <br>
+Worked at undergraduate intern at [🏢Electronics and Telecommunications Research Institute](https://www.etri.re.kr/eng/main/main.etri).<br>
 Worked as military service in Seoul Metropolitan Police Force👮‍♀️ (의무경찰 만기전역)
 <br>
 
