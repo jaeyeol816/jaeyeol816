@@ -1,7 +1,7 @@
 #### 📞 Contact me at..
 <a href="https://github.com/jaeyeol816" target="_blank"><img src="https://img.shields.io/badge/jaeyeol816@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
 <a href="https://github.com/jaeyeol816" target="_blank"><img src="https://img.shields.io/badge/jaychoi@skku.edu-30B980?style=flat-square&logo=Minutemailer&logoColor=FFFFFF"/></a>
-<a href="https://www.instagram.com/jae._ye0l/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a>
+<a href="https://www.instagram.com/jae._ye0l" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a>
 <a href="https://jaeyeol816.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-09B3AF?style=flat-square&logo=storyblok&logoColor=FFFFFF"/></a>
 
 #### 💁 I am..
