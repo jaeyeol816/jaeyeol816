@@ -11,7 +11,7 @@ Worked as undergraduate intern at [🏢Electronics and Telecommunications Resear
 Worked at Seoul Metropolitan Police Force👮‍♀️ for military service. (의무경찰 만기전역)
 <br>
 
-#### 🚀 Interested In..
+#### 🚀 I'm interested in..
 Neural Radiance Field (NeRF) <br>
 Korean Natural Language Processing <br>
 Immersive Video Standard - MIV, INVR <br>
