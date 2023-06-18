@@ -12,6 +12,6 @@ Worked at Seoul Metropolitan Police Force👮‍♀️ for military service. (�
 <br>
 
 #### 🚀 I'm interested in..
-🧠Neural Radiance Field (NeRF) <br>
-🗣️Korean Natural Language Processing <br>
-🎥Immersive Video Standard - MIV, INVR <br>
+Neural Radiance Field (NeRF) 🧠 <br>
+Korean Natural Language Processing 🗣️ <br>
+Immersive Video Standard - MIV, INVR 🎥 <br>
