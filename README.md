@@ -7,8 +7,8 @@
 
 
 #### 💁 I am..
-B.S - M.S connection course on [Sungkyunkwan university](https://www.skku.edu/eng/index.do), department of applied artificial intelligence.🤖<br>
-Undergraduate student in [📚Sungkyunkwan university](https://www.skku.edu/eng/index.do), department of computer education. 👨‍🎓<br>
+B.S - M.S connection course student at [Sungkyunkwan university](https://www.skku.edu/eng/index.do), department of applied artificial intelligence.🤖<br>
+Undergraduate student at [📚Sungkyunkwan university](https://www.skku.edu/eng/index.do), department of computer education. 👨‍🎓<br>
 Working as undergraduate intern at [💻Multimedia Computing System Lab](http://mcsl.skku.edu) located in Seoul, Korea. <br>
 Worked as undergraduate intern at [🏢Electronics and Telecommunications Research Institute](https://www.etri.re.kr/eng/main/main.etri) located in Daejeon, Korea.<br>
 Worked at Seoul Metropolitan Police Force👮‍♀️ for military service. (의무경찰 만기전역)
