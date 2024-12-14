@@ -8,7 +8,7 @@
 
 
 #### 💁 I am..
-M.S course student at [Sungkyunkwan university](https://www.skku.edu/eng/index.do), department of applied artificial intelligence.🤖<br>
+M.S course student in [Sungkyunkwan university](https://www.skku.edu/eng/index.do), department of applied artificial intelligence.🤖<br>
 &emsp;Lab: [💻Multimedia Computing System Laboratory](http://mcsl.skku.edu) (advisor: prof. Eun-Seok Ryu), located in Seoul, Korea. <br>
 B.S degree in computer education, Summa Cum Laude Graduate of [📚Sungkyunkwan university](https://www.skku.edu/eng/index.do). 👨‍🎓<br>
 Worked as research intern at [📌LOCUS](https://locus.com/) located in Seoul, Korea.  <br>
