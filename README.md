@@ -9,13 +9,15 @@
 
 #### 💁 I am..
 M.S course student at [Sungkyunkwan university](https://www.skku.edu/eng/index.do), department of applied artificial intelligence.🤖<br>
-Graduated [📚Sungkyunkwan university](https://www.skku.edu/eng/index.do), department of computer education. 👨‍🎓<br>
-Working as undergraduate intern at [💻Multimedia Computing System Lab](http://mcsl.skku.edu) located in Seoul, Korea. <br>
-Worked as undergraduate intern at [🏢Electronics and Telecommunications Research Institute](https://www.etri.re.kr/eng/main/main.etri) located in Daejeon, Korea.<br>
-Worked at Seoul Metropolitan Police Force👮‍♀️ for military service. (의무경찰 만기전역)
+  Lab: [💻Multimedia Computing System Lab](http://mcsl.skku.edu) located in Seoul, Korea. <br>
+B.S degree (Summa Cum Laude Graduate) in computer education in [📚Sungkyunkwan university](https://www.skku.edu/eng/index.do). 👨‍🎓<br>
+Worked as research intern at [📌LOCUS](https://locus.com/) located in Seoul, Korea.  <br>
+Worked as undergraduate research intern at  [🏢Electronics and Telecommunications Research Institute](https://www.etri.re.kr/eng/main/main.etri) located in Daejeon, Korea.<br>
+Worked at Seoul Metropolitan Police Force👮‍♀️ for military service. (의무경찰 수경(병장) 만기전역)
 <br>
 
 #### 🚀 I'm interested in..
 Neural Radiance Field (NeRF) 🧠 <br>
+3D Gaussian Splatting (3DGS) 🎈 <br>
 Korean Natural Language Processing 🗣️ <br>
-Immersive Video Standard - MIV, INVR 🎥 <br>
+Immersive Video Standard - MIV, GSC 🎥 <br>
